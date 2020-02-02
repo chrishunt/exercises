@@ -1,3 +1,5 @@
+Video: https://youtu.be/typMFfOiIKk
+
 This problem was asked by Uber.
 
 Given an array of integers, return a new array such that each element at index
