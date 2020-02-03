@@ -35,8 +35,8 @@ class Node
   end
 
   def ==(other)
-    value == other.value
-    left  == other.left
+    value == other.value &&
+    left  == other.left  &&
     right == other.right
   end
 end
