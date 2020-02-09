@@ -1,3 +1,5 @@
+Video: https://youtu.be/4A3f7j39K_Y
+
 This problem was asked by Google.
 
 A unival tree (which stands for "universal value") is a tree where all nodes
