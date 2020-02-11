@@ -1,3 +1,5 @@
+Video: https://youtu.be/nvpbrYR88Tc
+
 This problem was asked by Twitter.
 
 Implement an autocomplete system. That is, given a query string `s` and a set
