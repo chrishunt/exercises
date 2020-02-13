@@ -1,3 +1,5 @@
+Video: https://youtu.be/tBb7710Zkjc
+
 Merge `k` sorted linked lists and return it as one sorted list.
 
 Example:
