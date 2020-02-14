@@ -1,3 +1,5 @@
+Video: https://youtu.be/xy_WG4Yor4c
+
 This problem was asked by Amazon.
 
 Given an integer `k` and a string `s`, find the length of the longest substring
