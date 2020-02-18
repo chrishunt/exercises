@@ -1,3 +1,5 @@
+Video: https://youtu.be/vvMi7WIJZKY
+
 This problem was asked by Google.
 
 Suppose we represent our file system by a string in the following manner:
