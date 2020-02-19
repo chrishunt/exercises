@@ -1,3 +1,5 @@
+Video: https://youtu.be/nZbheD67xPM
+
 This problem was asked by Google.
 
 Given an array of integers and a number `k`, where `1 <= k <= length` of the
