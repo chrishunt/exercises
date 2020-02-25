@@ -1,5 +1,3 @@
-Video: https://youtu.be/D8xCndUiHHU
-
 This problem was asked by Google.
 
 Implement locking in a binary tree. A binary tree node can be locked or
