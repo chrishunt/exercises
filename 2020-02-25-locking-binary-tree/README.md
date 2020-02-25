@@ -1,3 +1,5 @@
+Video: https://youtu.be/D8xCndUiHHU
+
 This problem was asked by Google.
 
 Implement locking in a binary tree. A binary tree node can be locked or
@@ -5,14 +7,13 @@ unlocked only if all of its descendants or ancestors are not locked.
 
 Design a binary tree node class with the following methods:
 
-`is_locked`
-  Returns whether the node is locked.
-`lock`
-  Attempts to lock the node. If it cannot be locked, then it should return
-  `false`. Otherwise, it should lock it and return `true`.
-`unlock`
-  Unlocks the node. If it cannot be unlocked, then it should return `false`.
-  Otherwise, it should unlock it and return `true`.
+`is_locked`: Returns whether the node is locked.
+
+`lock`: Attempts to lock the node. If it cannot be locked, then it should
+return `false`. Otherwise, it should lock it and return `true`.
+
+`unlock`: Unlocks the node. If it cannot be unlocked, then it should return
+`false`.  Otherwise, it should unlock it and return `true`.
 
 You may augment the node to add parent pointers or any other property you would
 like. You may assume the class is used in a single-threaded program, so there
