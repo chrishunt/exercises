@@ -17,13 +17,7 @@ class Solution
       char = chars[index]
       next_char = chars[index + 1]
 
-      if (char == 'I' && %w(V X L C D M).include?(next_char)) ||
-         (char == 'V' && %w(X L C D M).include?(next_char)) ||
-         (char == 'X' && %w(L C D M).include?(next_char)) ||
-         (char == 'L' && %w(C D M).include?(next_char)) ||
-         (char == 'C' && %w(D M).include?(next_char)) ||
-         (char == 'D' && %w(M).include?(next_char))
-
+      if NUMERALS[next_char] && (NUMERALS[next_char] > NUMERALS[char])
         sum += NUMERALS[next_char] - NUMERALS[char]
         index += 1
       else
