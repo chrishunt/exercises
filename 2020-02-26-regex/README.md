@@ -1,3 +1,5 @@
+Video: https://youtu.be/naeTg_y-PCk
+
 This problem was asked by Facebook.
 
 Implement regular expression matching with the following special characters:
