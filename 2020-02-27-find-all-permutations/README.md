@@ -1,3 +1,5 @@
+Video: https://youtu.be/HBCfCoTzL7U
+
 Given a collection of distinct integers, return all possible permutations.
 
 Example:
