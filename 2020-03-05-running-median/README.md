@@ -1,3 +1,5 @@
+Video: https://youtu.be/E6V5xyglkDI
+
 This problem was asked by Microsoft.
 
 Compute the running median of a sequence of numbers. That is, given a stream of
