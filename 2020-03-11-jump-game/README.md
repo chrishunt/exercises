@@ -1,3 +1,5 @@
+Video: https://youtu.be/Emb6byrdpDE
+
 Given an array of non-negative integers, you are initially positioned at the
 first index of the array.
 
