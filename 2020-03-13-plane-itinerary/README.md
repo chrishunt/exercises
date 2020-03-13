@@ -1,3 +1,5 @@
+Video: https://youtu.be/7VdG0A40sc8
+
 This problem was asked by Facebook.
 
 Given an unordered list of flights taken by someone, each represented as
