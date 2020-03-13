@@ -17,7 +17,7 @@ Returns: ['YUL', 'YYZ', 'SFO', 'HKO', 'ORD']
 ```
 Flights: [('SFO', 'COM'), ('COM', 'YYZ')]
 Starting airport: 'COM'
-Returns: null
+Returns: nil
 ```
 
 ```
